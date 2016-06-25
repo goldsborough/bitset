@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://goldsborough.mit-license.org)
 
-`bitset` is a feature-complete, generic and customizable dynamic bitset implementation in pure C.
+`bitset` is a feature-complete, generic and customizable dynamic bitset implementation in pure C. It adapts my [vector](https://github.com/goldsborough/vector) data structure.
 
 ## Usage
 
